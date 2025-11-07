@@ -1,0 +1,9 @@
+apache-airflow==2.9.2
+pandas
+nltk
+scikit-learn
+matplotlib
+seaborn
+streamlit
+pyngrok
+joblib
