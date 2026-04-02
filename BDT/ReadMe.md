@@ -1,4 +1,4 @@
-# 🚀 End-to-End Big Data Engineering Pipeline for E-Commerce Analytics
+# 🚀 Distributed Data Processing System for E-Commerce Analytics
 
 ## 📌 Overview
 
